@@ -1,0 +1,16 @@
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.exe
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.deps.json
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.json
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.runtimeconfig.dev.json
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.dll
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\bin\Debug\net5.0\ref\AbstractFactoryPattern.dll
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\bin\Debug\net5.0\AbstractFactoryPattern.pdb
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csprojAssemblyReference.cache
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.AssemblyInfo.cs
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.dll
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\obj\Debug\net5.0\ref\AbstractFactoryPattern.dll
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.pdb
+C:\Users\Lntinfotech\Documents\DotNet\AbstractFactoryPattern\obj\Debug\net5.0\AbstractFactoryPattern.genruntimeconfig.cache
